@@ -80,3 +80,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake.svg" alt="Snake animation" />
+
+###
