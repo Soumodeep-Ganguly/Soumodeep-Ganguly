@@ -83,7 +83,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake.svg?palette=github-dark" alt="Snake animation" />
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake.svg" />
