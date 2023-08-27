@@ -83,6 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Soumodeep-Ganguly/Soumodeep-Ganguly/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Soumodeep-Ganguly/Soumodeep-Ganguly/blob/output/github-snake.svg)
 
 ###
