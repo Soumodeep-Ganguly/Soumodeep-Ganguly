@@ -1,0 +1,30 @@
+name: Update Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+
+      - name: Commit and Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_PAT }}
+          branch: main
+          force: true
