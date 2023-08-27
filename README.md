@@ -83,6 +83,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Soumodeep-Ganguly/Soumodeep-Ganguly/blob/output/github-snake.svg)
+![snake gif](https://github.com/Soumodeep-Ganguly/Soumodeep-Ganguly/blob/output/github-contribution-grid-snake.gif)
 
 ###
