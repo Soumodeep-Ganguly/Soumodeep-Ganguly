@@ -3,7 +3,7 @@
 <h3>MERN Stack Developer</h3>
 
 <div  width="50%">
-<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1720344803~exp=1720345403~hmac=a7e6f8bd483960dca4b5c54638dce42be275ca892d65c81ee3cd85540d530902" height="500px" width="100%" />
+<img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1720344976~exp=1720345576~hmac=a9952d7cbcf42ebac6c26188215dfcddb63c18c1147d4cecff93f31abe920a54" height="500px" width="100%" />
 </div>
 
 <code>Here's link to my [Portfolio](https://soumodeep.web.app/). Feel Free to check it.</code>
